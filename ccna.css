@@ -1,0 +1,46 @@
+.g2g {
+    background-color: crimson;
+    font-size: 19px;
+    color: white;
+    height: 36px;
+    width: 105px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.h2h {
+    background-color: white;
+    margin-left: 10px;
+    color: dodgerblue;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1.9px;
+    border-color: deepskyblue;
+    height: 38px;
+    width: 70px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+}
+.h2h:hover {
+    background-color: bisque;
+}
+.h2h:active {
+    background-color: brown;
+}
+.ma {
+    background-color: rgb(23, 204, 236);
+    margin-left: 15px;
+    color: white;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1.9px;
+    border-color: deepskyblue;
+    height: 36px;
+    width: 75px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+}
